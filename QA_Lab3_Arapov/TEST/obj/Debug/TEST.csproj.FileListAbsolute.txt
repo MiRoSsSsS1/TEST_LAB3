@@ -1,0 +1,7 @@
+D:\LABA\VS\TEST\TEST\bin\Debug\TEST.exe.config
+D:\LABA\VS\TEST\TEST\bin\Debug\TEST.exe
+D:\LABA\VS\TEST\TEST\bin\Debug\TEST.pdb
+D:\LABA\VS\TEST\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+D:\LABA\VS\TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+D:\LABA\VS\TEST\TEST\obj\Debug\TEST.exe
+D:\LABA\VS\TEST\TEST\obj\Debug\TEST.pdb
